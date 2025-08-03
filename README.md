@@ -25,4 +25,4 @@ A simple and interactive web application to help you practice JLPT N5-level voca
 1.  Clone the repository.
 2.  Install Flask (`pip install Flask`).
 3.  Navigate to the project folder in your terminal and run `python app.py`.
-4.  Open your browser and go to `[http://127.0.0.1:5000](https://jlptdemo.netlify.app/)` to start the quiz.
+4.  Open your browser and go to [http://127.0.0.1:5000](https://jlptdemo.netlify.app/) to start the quiz.
